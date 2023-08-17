@@ -1,6 +1,7 @@
 let userSeq = [];
 let gameSeq = [];
 
+// <-- My js Code -->
 
 let btns =["yellow","red","purple","green"];
 
